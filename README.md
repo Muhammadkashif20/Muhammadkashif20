@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am A Passionate FrontedDeveloper.<br>I am Currently Learning Web & App Development From SMIT.<br>
+I am A Passionate Fronted Developer.<br>I am Currently Learning Web & App Development From SMIT.<br>
 
 
 ## 🌐 Socials:
